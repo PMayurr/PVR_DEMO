@@ -1,0 +1,156 @@
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\appsettings.Development.json
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\appsettings.json
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\PVR.exe
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\PVR.deps.json
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\PVR.runtimeconfig.json
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\PVR.runtimeconfig.dev.json
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\PVR.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\PVR.pdb
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Npgsql.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.csproj.AssemblyReference.cache
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.AssemblyInfoInputs.cache
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.AssemblyInfo.cs
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.csproj.CoreCompileInputs.cache
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.MvcApplicationPartsAssemblyInfo.cs
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.MvcApplicationPartsAssemblyInfo.cache
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\scopedcss\bundle\PVR.styles.css
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\staticwebassets\PVR.StaticWebAssets.Manifest.cache
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\staticwebassets\PVR.StaticWebAssets.Pack.cache
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\staticwebassets\msbuild.PVR.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\staticwebassets\msbuild.build.PVR.props
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PVR.props
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PVR.props
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.RazorTargetAssemblyInfo.cache
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.csproj.CopyComplete
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.dll
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\refint\PVR.dll
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.pdb
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\PVR.genruntimeconfig.cache
+D:\DotnetPracticeProjects\PVR\obj\Debug\net5.0\ref\PVR.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\IdentityModel.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotnetPracticeProjects\PVR\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\appsettings.Development.json
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\appsettings.json
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\PVR.exe
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\PVR.deps.json
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\PVR.runtimeconfig.json
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\PVR.runtimeconfig.dev.json
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\PVR.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\PVR.pdb
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\IdentityModel.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Npgsql.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotnetPracticeProjects\PVR - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.csproj.AssemblyReference.cache
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.AssemblyInfoInputs.cache
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.AssemblyInfo.cs
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.csproj.CoreCompileInputs.cache
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.MvcApplicationPartsAssemblyInfo.cs
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.MvcApplicationPartsAssemblyInfo.cache
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\scopedcss\bundle\PVR.styles.css
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\staticwebassets\PVR.StaticWebAssets.Manifest.cache
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\staticwebassets\PVR.StaticWebAssets.Pack.cache
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\staticwebassets\msbuild.PVR.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\staticwebassets\msbuild.build.PVR.props
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PVR.props
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PVR.props
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.RazorTargetAssemblyInfo.cache
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.csproj.CopyComplete
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.dll
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\refint\PVR.dll
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.pdb
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\PVR.genruntimeconfig.cache
+D:\DotnetPracticeProjects\PVR - Copy\obj\Debug\net5.0\ref\PVR.dll
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.csproj.AssemblyReference.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.AssemblyInfoInputs.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.AssemblyInfo.cs
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.csproj.CoreCompileInputs.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\appsettings.json
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\PVR.exe
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\PVR.deps.json
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\PVR.runtimeconfig.json
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\PVR.runtimeconfig.dev.json
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\PVR.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\ref\PVR.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\PVR.pdb
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Npgsql.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\staticwebassets\PVR.StaticWebAssets.Manifest.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\staticwebassets\PVR.StaticWebAssets.xml
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\scopedcss\bundle\PVR.styles.css
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.RazorTargetAssemblyInfo.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.csproj.CopyComplete
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.dll
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\ref\PVR.dll
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.pdb
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.genruntimeconfig.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.RazorAssemblyInfo.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.RazorAssemblyInfo.cs
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\PVR.Views.dll
+C:\Users\MayurPatil\Downloads\PVR\bin\Debug\net5.0\PVR.Views.pdb
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.TagHelpers.input.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.TagHelpers.output.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.RazorCoreGenerate.cache
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.RazorTargetAssemblyInfo.cs
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\PVR.Views.pdb
+C:\Users\MayurPatil\Downloads\PVR\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
